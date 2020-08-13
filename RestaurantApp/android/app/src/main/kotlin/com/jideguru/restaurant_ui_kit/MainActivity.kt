@@ -1,4 +1,4 @@
-package com.jideguru.restaurant_ui_kit
+package com.prueba.restaurant
 
 import android.os.Bundle
 
